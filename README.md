@@ -6,13 +6,13 @@ For more information of both EnaGine and EnaLang, please follow the links below.
 ## Meta 
 
 
-Github: [https://github.com/DaanVink/Ena](https://github.com/EnaProject/Ena)
+Github: [https://github.com/EnaProject/Ena](https://github.com/EnaProject/Ena)
 
-Github EnaGine: [https://github.com/DaanVink/EnaGine](https://github.com/EnaProject/EnaGine)
+Github EnaGine: [https://github.com/EnaProject/EnaGine](https://github.com/EnaProject/EnaGine)
 
-Github EnaLang: [https://github.com/DaanVink/EnaLang](https://github.com/EnaProject/EnaLang)
+Github EnaLang: [https://github.com/EnaProject/EnaLang](https://github.com/EnaProject/EnaLang)
 
-Official Website: [https://GitHub.com/Ena](https://GitHub.com/EnaProject)
+Official Website: [https://GitHub.com/EnaProject](https://GitHub.com/EnaProject)
 
 ## License
 
